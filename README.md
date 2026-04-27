@@ -127,9 +127,3 @@ matplotlib       — All visualizations
 
 ---
 
-## ⚡ Hackathon Tips
-
-- Start with `bash run.sh demo` to get something running immediately
-- The dashboard works even without a trained model (heuristic fallback)
-- For the live demo, let the simulation run until the pre-ictal phase (~40–50s mark) to show the alert firing
-- Print out the confusion matrix and AUC from `models/metrics.json` for the slides
