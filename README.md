@@ -1,9 +1,5 @@
 # 🧠 NeuroAlert — Early Epilepsy Seizure Predictor
 
-> **Hackathon-ready AI system** that detects pre-ictal EEG patterns up to 30 seconds before a seizure using a trained Random Forest or 1D-CNN model.
-
----
-
 ## 🚀 Quickstart (5 minutes)
 
 ```bash
